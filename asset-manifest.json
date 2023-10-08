@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/BioSpectra/static/css/main.d6c56901.css",
+    "main.js": "/BioSpectra/static/js/main.0177712d.js",
+    "static/media/jpg": "/BioSpectra/static/media/5b41771975d4b740c29344f12749c9dd.0e893c090dbe1766586b.jpg",
+    "static/media/srobnv.jpg": "/BioSpectra/static/media/srobnv.c921b80ada218f220cf2.jpg",
+    "static/media/leo.png": "/BioSpectra/static/media/leo.e04810807cb0c6686343.png",
+    "static/media/image 24.png": "/BioSpectra/static/media/image 24.efacd9b28134c9637a09.png",
+    "static/media/jirav.png": "/BioSpectra/static/media/jirav.b8fc88ae35d90cbbf244.png",
+    "static/media/map.svg": "/BioSpectra/static/media/map.ff835878f7cbfc65a62346b2439d1a33.svg",
+    "static/media/Frame 187.png": "/BioSpectra/static/media/Frame 187.36ee7fee2c418eb2b004.png",
+    "static/media/msg-4028609362-30195.jpg": "/BioSpectra/static/media/msg-4028609362-30195.7ac8cce168bb3e89f6a1.jpg",
+    "static/media/Vector (5).svg": "/BioSpectra/static/media/Vector (5).ff8dca985fc91d06961207e93f30a010.svg",
+    "static/media/arcticons_biota (1) (1).svg": "/BioSpectra/static/media/arcticons_biota (1) (1).0e04453a5dba9baa6f8d8c2e23f86471.svg",
+    "static/media/arcticons_biota.svg": "/BioSpectra/static/media/arcticons_biota.0ac498d436d5642fe2704fb2edeb0a5c.svg",
+    "static/media/material-symbols_person-outline.svg": "/BioSpectra/static/media/material-symbols_person-outline.1aace3239b83e4ecda2ff995ff9df67a.svg",
+    "static/media/profile-balck.svg": "/BioSpectra/static/media/profile-balck.a905bff71c2518f584d8dbb55b261cc9.svg",
+    "static/media/co2.svg": "/BioSpectra/static/media/co2.66d56ad05e750ba7037a7302687ddc02.svg",
+    "static/media/mdi_map-marker.svg": "/BioSpectra/static/media/mdi_map-marker.d656a6ab07a9cff3ec2420b0e1e9089b.svg",
+    "static/media/Vector (6).svg": "/BioSpectra/static/media/Vector (6).03300ec0970c7e196e2f8b52a0090086.svg",
+    "static/media/head.svg": "/BioSpectra/static/media/head.a1f325051049763ef58ae53b129ea419.svg",
+    "static/media/sprout.svg": "/BioSpectra/static/media/sprout.0afa27f2dcbba7a075d45a0a5290be46.svg",
+    "index.html": "/BioSpectra/index.html",
+    "static/media/mdi_calendar-range.svg": "/BioSpectra/static/media/mdi_calendar-range.644b4a65620059bc1421d51cffd5100f.svg",
+    "main.d6c56901.css.map": "/BioSpectra/static/css/main.d6c56901.css.map",
+    "main.0177712d.js.map": "/BioSpectra/static/js/main.0177712d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6c56901.css",
+    "static/js/main.0177712d.js"
+  ]
+}
