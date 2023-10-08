@@ -7,3 +7,10 @@
   scroll-behavior: smooth;
   font-family: Montserrat, sans-serif;
 }
+
+.donutchart-legend {
+  display: none;
+}
+.donutchart-innertext-label {
+  margin-bottom: 30px;
+}
