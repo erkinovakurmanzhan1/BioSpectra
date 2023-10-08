@@ -1,5 +1,5 @@
 import React from "react";
-import phone from "../../assets/images/phoneBackground.png";
+import phone from "../../assets/images/image 24.png";
 import qr from "../../assets/images/qr.png";
 
 const Download = () => {
