@@ -1,6 +1,7 @@
 import React from 'react';
 import map from '../../assets/icons/map.svg'
 import ColumnChart from '../../components/chart/ColumnChart';
+import Download from '../../components/download';
 
 const AboutUs = () => {
     return (
@@ -16,6 +17,10 @@ const AboutUs = () => {
 
             <div className='p-[100px]'>
             <ColumnChart/>
+            </div>
+
+            <div className='p-[100px]'>
+            <Download/>
             </div>
         </div>
     );

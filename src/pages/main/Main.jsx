@@ -13,20 +13,20 @@ const Main = () => {
     {
       id: 1,
       icon: co2,
-      title: 'Легко и доступно в использовании',
-      text: 'Курсы можно проходить в любое время, даже выполнять тесты не смотря на истечения срока',
+      title: 'Conservation of Ecosystems',
+      text: 'Reducing CO2 emissions contributes to the conservation of ecosystems, as climate change can negatively affect the diversity of life in them.',
     },
     {
       id: 2,
       icon: head,
-      title: 'Развитие своих персональных навыков',
-      text: 'Каждый может улучшить свои знание за короткий период и следить за своим прогрессом',
+      title: 'Education and Enlightenment',
+      text: 'Value in educating society and raising awareness of the importance of nature conservation and biodiversity.',
     },
     {
       id: 3,
       icon: sprout,
-      title: 'Лучшая подобранная программа',
-      text: 'Мы подготовили упрощенную методику обучения под каждого пользователя',
+      title: 'Nature Conservation',
+      text: 'The main value lies in the conservation and protection of the biodiversity of South Africa, including unique species of plants and animals that may be on the verge of extinction.',
     },
   ];
   return (
@@ -58,7 +58,7 @@ const Main = () => {
 
         <div className='flex'>
           {posible.map((item) => (
-            <div className='rounded-lg border border-solid border-gray-300 p-[48px] mr-[24px]'>
+            <div className='rounded-lg border border-solid border-gray-300 p-[48px] w-[397px] mr-[24px]'>
               <div className='flex justify-center items-center'>
                 <img src={item.icon} alt='/' />
               </div>
@@ -106,7 +106,7 @@ const Main = () => {
       </div>
 
        <div className='bg-[#F0FFFB] p-[100px]'>
-        <h4 className='text-[72px] font-semibold'>Participate in Our Workshops</h4>
+        <h4 className='text-[72px] font-semibold mb-[72px]'>Participate in Our Workshops</h4>
         <WorkShopCard/>
        </div>
        <Footer/>

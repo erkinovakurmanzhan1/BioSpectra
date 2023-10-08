@@ -18,6 +18,11 @@ export default function ColumnChart() {
         data: [20, 44, 32, 76, 85, 98, 2, 3, 19],
         color: '#93AAFD',
       },
+      {
+        name: '4',
+        data: [20, 44, 32, 76, 85, 98, 2, 3, 19],
+        color: '#93AAFD',
+      },
     ],
     chart: {
       type: 'bar',
