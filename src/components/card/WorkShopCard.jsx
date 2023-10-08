@@ -3,7 +3,6 @@ import { workShopData } from "../../constants/workshopData";
 
 const WorkShopCard = () => {
   return (
-    <div className="bg-[#F0FFFB] gap-6">
       <div className="flex gap-6 ">
         {workShopData.map((item) => (
           <div className="bg-white  w-[18.25rem] rounded-xl">
@@ -27,7 +26,6 @@ const WorkShopCard = () => {
           </div>
         ))}
       </div>
-    </div>
   );
 };
 

@@ -1,0 +1,20 @@
+import React from 'react';
+import phone from '../../assets/images/phone.png'
+import qr from '../../assets/images/qr.png'
+
+const Download = () => {
+    return (
+        <div className='w-[1080px] rounded-[30px] bg-white shadow-custom'>
+
+        <div className='px-[93px] py-[46px] flex justify-between'>
+            <img src={phone} alt="" />
+            <div className='text-[45px]'>
+            <img src={qr} alt="" />
+            <h4 className='font-bold'>Скачай приложение</h4><span className='font-semibold text-[#1BBD32]'>BioSpectra</span> 
+            </div>
+        </div>
+        </div>
+    );
+}
+
+export default Download;
