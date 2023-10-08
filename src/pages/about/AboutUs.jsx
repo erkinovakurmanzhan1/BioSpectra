@@ -3,6 +3,7 @@ import map from "../../assets/icons/map.svg";
 import ColumnChart from "../../components/chart/ColumnChart";
 import Header from "../../components/header/Header";
 import DonutChart from "../../components/statistics/Statistic";
+import Download from "../../components/download";
 
 const AboutUs = () => {
   return (
@@ -22,8 +23,12 @@ const AboutUs = () => {
         <DonutChart />
         <div className="p-[100px]">
           <ColumnChart />
+            </div>
+
+            <div className='p-[100px]'>
+            <Download/>
+            </div>
         </div>
-      </div>
     </>
   );
 };

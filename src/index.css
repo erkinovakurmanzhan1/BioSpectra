@@ -7,3 +7,12 @@
   scroll-behavior: smooth;
   font-family: Montserrat, sans-serif;
 }
+
+.shadow-custom {
+  border-radius: 30px;
+  background: #FFF;
+  box-shadow: 28px 28px 70px 0px rgba(201, 201, 201, 0.90),
+              -28px -28px 56px 0px rgba(255, 255, 255, 0.90),
+               28px -28px 56px 0px rgba(201, 201, 201, 0.20),
+              -28px 28px 56px 0px rgba(201, 201, 201, 0.20);
+}
