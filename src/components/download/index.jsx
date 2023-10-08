@@ -1,12 +1,12 @@
 import React from "react";
-import phone from "../../assets/images/phone.png";
+import phone from "../../assets/images/phoneBackground.png";
 import qr from "../../assets/images/qr.png";
 
 const Download = () => {
   return (
     <div className="w-[1080px] rounded-[30px] bg-white shadow-custom">
       <div className="px-[93px] py-[46px] flex justify-between">
-        <img src={phone} alt="" />
+        <img src={phone} alt="" className="h-[38.5625rem]"/>
         <div className="text-[35px]">
           <img src={qr} alt="" />
           <h4 className="font-bold">Download the application</h4>
