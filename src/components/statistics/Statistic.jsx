@@ -45,11 +45,11 @@ const DonutChart = () => {
       <h1 className="text-center text-4xl font-bold pb-24">STATISTICS</h1>
       <div className="flex justify-between px-[6.25rem]">
         <div className="text-black w-[24.5625rem]">
-          <h2 className="text-2xl font-bold">Update headline here</h2>
+          <h2 className="text-2xl font-bold">Wildlife</h2>
           <p className="text-base font-medium py-6">
-            Наша цель - предоставить исследователям, экологам и обществу доступ
-            к точным и актуальным данным о разнообразии живых организмов в этом
-            регионе.
+            South Africa is known for its diverse geography, including coastal
+            areas, mountains, plateaus, and deserts. The Drakensberg Mountains
+            are a prominent feature.
           </p>
           <button className="py-2 px-7 bg-gray-700 rounded-lg text-white font-medium">
             Learn more

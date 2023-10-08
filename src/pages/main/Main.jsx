@@ -1,5 +1,5 @@
 import React from "react";
-import Background from "../../assets/images/video or image.png";
+import Background from "../../assets/images/msg-4028609362-30195.jpg";
 import Button from "../../components/buttons";
 import { co2, head, sprout } from "../../assets/icons";
 import leo from "../../assets/images/leo.png";
@@ -31,7 +31,7 @@ const Main = () => {
   return (
     <div>
       <div>
-        <img className="absolute" src={Background} alt="" />
+        <img className="absolute w-full object-cover h-full" src={Background} alt="" />
         <div className="relative">
           <Header />
         </div>
